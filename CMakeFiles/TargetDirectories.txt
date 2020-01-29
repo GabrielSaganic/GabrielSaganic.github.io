@@ -1,0 +1,3 @@
+/run/media/zidar/HDD/Projekt/rak/rak_drogon/build/CMakeFiles/rebuild_cache.dir
+/run/media/zidar/HDD/Projekt/rak/rak_drogon/build/CMakeFiles/rak_drogon.dir
+/run/media/zidar/HDD/Projekt/rak/rak_drogon/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/rak_drogon.dir/main.cc.o  -o rak_drogon /usr/local/lib/libdrogon.a /usr/local/lib/libtrantor.a /usr/lib/libcares.so -lpthread -ldl /usr/lib/libjsoncpp.so /lib/libuuid.so /usr/lib/libz.so /usr/lib/libssl.so /usr/lib/libcrypto.so /usr/lib/libmysqlclient_r.so /usr/lib/libsqlite3.so 

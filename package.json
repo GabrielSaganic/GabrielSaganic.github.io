@@ -1,0 +1,28 @@
+{
+  "name": "rak",
+  "version": "1.0.0",
+  "description": "rak website",
+  "main": "app.js",
+  "scripts": {
+    "test": "karma",
+    "tsc": "tsc",
+    "tsc:w": "tsc -w",
+    "lite": "lite-server",
+    "start": "concurrently \"npm run tsc:w\" \"npm run lite\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/zidar/rak.git"
+  },
+  "author": "Zidar",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://gitlab.com/zidar/rak/issues"
+  },
+  "homepage": "https://gitlab.com/zidar/rak#readme",
+  "devDependencies": {
+    "concurrently": "^5.0.0",
+    "lite-server": "^2.5.4",
+    "typescript": "^3.7.2"
+  }
+}
